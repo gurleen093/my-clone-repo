@@ -1,3 +1,4 @@
 # my-clone-repo
 Hello world!
-Author - Gurleen Kaur
+Author - Gurleen Kaur 
+Student of Durham College
